@@ -1,0 +1,7 @@
+first error or failures when type 'learn'.
+then use edit-me.txt or type 'touch new-files' to input to first-lab-ruby-learn-cli-nitrous-q-000 directory
+the directory then input ,then excute commands .
+type 'learn' then output show you made a change with time finished
+after that, type 'learn submit' to save changes to github.
+example of workflow.
+:}
